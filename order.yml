@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: config
+  cloud:
+    config:
+      server:
+        git:
+          uri: file:///D:/jee-2020-06/workspace/spring-cloud-configserver/config
+          basedir: file:///D:/jee-2020-06/workspace/spring-cloud-configserver/target/config
+management:
+  endpoints:
+    web:
+      expose: "*"
