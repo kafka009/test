@@ -15,3 +15,6 @@ management:
 order:
   name: kafka
   sex: mane
+
+kafka:
+  server: order

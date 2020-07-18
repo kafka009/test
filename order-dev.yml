@@ -15,3 +15,5 @@ management:
   endpoints:
     web:
       expose: "*"
+kafka:
+  server: order-dev
