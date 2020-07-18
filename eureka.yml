@@ -16,4 +16,4 @@ order:
   name: kafka
   sex: mane
 kafka:
-  server: dureka
+  server: eureka
