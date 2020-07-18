@@ -11,3 +11,7 @@ management:
   endpoints:
     web:
       expose: "*"
+
+order:
+  name: kafka
+  sex: mane
